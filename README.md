@@ -1,2 +1,0 @@
-# nlpFinalProject
-CSC84000
